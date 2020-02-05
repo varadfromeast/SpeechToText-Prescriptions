@@ -1,0 +1,106 @@
+.left-division{
+  display: inline-block;
+  height: 100%;
+  width:70%;
+  background-color:blue;
+  margin:0;
+  padding: 0;
+}
+.right-division{
+  display: inline-block;
+  height: 100%;
+  width:30%;
+  margin: 0;
+  background-color: #f6f6f6;
+  padding:0;
+  position: absolute;
+  top: 0;
+}
+html,body{
+  margin: 0;
+  height: 100%;
+  width:100%;
+}
+
+img{
+  margin: 0;
+  width: 100%;
+  height: 100%;
+}
+h1{
+  margin:10% 0 5% 10%;
+  display: inline-block;
+  width:50%;
+  font-family: 'Libre Franklin', sans-serif;
+  font-size: 3em;
+  color: #420000;
+}
+
+.label-clinic-name{
+  display: block;
+}
+
+.clinic-name:hover{
+    width: 90%;
+}
+.div-clinic-name{
+  text-align: left;
+  margin-left: 10%;
+  margin-top: 5%;
+}
+
+.doctor-details{
+  text-align: left;
+  margin-top: 5%;
+  margin-left: 7%;
+  margin-right: 10%;
+  padding: 30px 20px;
+  border-style: solid;
+  border-radius: 5px;
+  border-color: #048998;
+}
+input {
+  width: 90%;
+  height: 2em;
+  margin: 0 0 5% 0;
+  background-color: #f6f6f6;
+  border-style: none;
+  border-bottom-style: solid;
+  border-bottom-color: grey;
+}
+input:hover{
+  border-bottom-color:#49beb7;
+  width: 100%;
+}
+.clinic-name{
+  width:87%;
+}
+label{
+  color: #420000;
+  font-size: 1.2em;
+}
+
+button{
+  background-color: #49beb7;
+  color: white;
+  margin: 20% 0 0 25%;
+  border-style: none;
+  height: 7%;
+  width: 50%;
+  font-size: 1.5em;
+}
+button:hover{
+  opacity: 0.8;
+}
+.subbtn{
+  background-color: #49beb7;
+  color: white;
+  margin: 20% 0 0 25%;
+  border-style: none;
+  height: 50px;
+  width: 50%;
+  font-size: 1.5em;
+}
+.subbtn:hover{
+  opacity: 0.8;
+}

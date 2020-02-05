@@ -1,0 +1,33 @@
+<html>
+<head>
+<script type="text/javascript>
+var Words;
+var File=new XMLHttpRequest();
+File.open("GET", "file:///C:/Users/S Gaikwad/js-projects/medicines.txt",false);
+File.onreadystatechange=
+function(){
+	if(File.readyState===4)
+	{
+		if(File.status===200|| File.status==0)
+		{ Words=File.responseText.split("\r\n");
+		}
+		}
+};
+File.send(null);
+
+</script>
+
+
+
+</head>
+
+
+<body>
+<script type="text/javascript">
+document.write(Words[2]);
+</script>
+HELLO WORLD
+
+</body>
+
+</html>

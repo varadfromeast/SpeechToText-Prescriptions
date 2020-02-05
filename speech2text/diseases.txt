@@ -1,0 +1,36 @@
+Arthritis
+Asthma
+Autism
+Avian Influenza
+Birth Defects
+Cancer
+Chlamydia
+Chronic Fatigue Syndrome
+(COPD)
+Diabetes
+Ebola
+Epilepsy
+Fetal Alcohol Spectrum Disorder
+Flu (Influenza)
+Genital Herpes (Herpes Simplex Virus)
+Giardiasis
+Gonorrhea
+Healthy Water
+HeartDisease
+Hepatitis
+HIV AIDS
+Human papillomavirus (HPV)
+KidneyDiseases
+Meningitis
+Methicillin-resistant Staphylococcus aureus (MRSA)
+Microcephaly
+Middle East Respiratory Syndrome (MERS)
+OverweightObesity
+Parasites – Scabies
+Salmonella
+Sexually Transmitted Diseases
+Stroke
+Traumatic Brain Injury (TBI)
+Trichomonas Infection (Trichomoniasis)
+Tuberculosis (TB)
+Zika Virus

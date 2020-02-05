@@ -1,0 +1,161 @@
+.top-container
+{
+  margin-top: 0;
+  text-align: center;
+  background-color: #e5dfdf;
+}
+h2
+{
+margin-top: 0;
+font-size: 2em;
+}
+body{
+  margin: 0;
+}
+.middle-container
+{
+  padding: 20px;
+  text-align: center;
+  display: inline-block;
+  width: 80%;
+}
+.middle-conatiner-right{
+  display: inline-block;
+  width:10%;
+  height:25em;
+}
+.right-button{
+  margin-top:12em;
+}
+.right-button:hover{
+  height:5em;
+  width: 5em;
+}
+.speak:hover{
+  background-color: white;
+}
+.clinic-name{
+  text-align: center;
+  margin: 0;
+  position: relative;
+  bottom:20px;
+  margin-top:0;
+  padding: 0;
+  display: inline-block;
+  width: 49%;
+}
+.doc-details{
+  margin: 0;
+  width:50%;
+  display: inline-block;
+  text-align: right;
+}
+hr{
+  width: 90%;
+  margin-top:0;
+}
+.main-table
+{
+  width: 70%;
+  margin:auto;
+  height: 350px;
+}
+.patient-name{
+  text-align: center;
+
+  border-bottom-color: grey;
+  border-bottom-style: solid;
+}
+
+.keyword-name{
+  background-color: #C0C0C0;
+  text-align: center;
+  width: 20%;
+  border-bottom-color: grey;
+}
+
+.patient-symptoms{
+  text-align: center;
+
+  border-bottom-color: grey;
+  border-bottom-style: solid;
+}
+
+.keyword-symptoms{
+  background-color: #C0C0C0;
+  text-align: center;
+  width: 20%;
+  border-bottom-color: grey;
+}
+
+.patient-diagnosis{
+  text-align: center;
+
+  border-bottom-color: grey;
+  border-bottom-style: solid;
+}
+
+.keyword-diagnosis{
+  background-color: #C0C0C0;
+  text-align: center;
+  width: 20%;
+  border-bottom-color: grey;
+}
+
+.patient-prescription{
+  text-align: center;
+
+  border-bottom-color: grey;
+  border-bottom-style: solid;
+}
+
+.keyword-prescription{
+  background-color: #C0C0C0;
+  text-align: center;
+  width: 20%;
+  border-bottom-color: grey;
+}
+
+.patient-advice{
+  text-align: center;
+  border-bottom-color: grey;
+  border-bottom-style: solid;
+}
+
+.keyword-advice{
+  background-color: #C0C0C0;
+  text-align: center;
+  width: 20%;
+  border-bottom-color: grey;
+}
+
+.bottom-container{
+  background-color: #e5dfdf;
+  height: 70px;
+  margin-top:5em;
+}
+img{
+  width:60px;
+  height: 60px;
+  display: block;
+}
+.div-speak{
+  width:60px;
+  text-align: center;
+  margin-left: 50px;
+  position: relative;
+  bottom: 30px;
+  display: inline-block;
+  margin-bottom: 0;
+}
+.converted-text{
+  height: 50px;
+  position: relative;
+  bottom:18px;
+  margin: 0 0 0 30px;
+  display: inline-block;
+  width: 89%;
+  border-radius:10px;
+  font-size: 1.5em;
+  overflow-wrap : break-word;
+}
