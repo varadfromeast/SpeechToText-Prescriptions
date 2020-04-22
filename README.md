@@ -9,10 +9,14 @@ speech2text contains main.js(primary script) along with .txt files containing pr
 
 ## Running the Application
 
+Go to where the directory is cloned. Open cmd/terminal and type node server.js.
+Open localhost:3000 in google chrome browser.
 Speak into a microphone as per the format, the text will then be visible in the textbox. Click the arrow button to generate the prescription.
 
 ## Deployment
 
 Planning on deploying on Heroku for public use.
+
+
 
 
